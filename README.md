@@ -1,4 +1,4 @@
-Header](./github-header-image (2).png)
+![logo](https://github.com/not-ujjwal777/not-ujjwal777/blob/main/github-header-image%20(2).png)
 
 
 github profile markdown generator logo
