@@ -1,13 +1,5 @@
 ![logo](https://github.com/not-ujjwal777/not-ujjwal777/blob/main/github-header-image%20(2).png)
 
-
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-20382
-Fork on GitHub
-6236
-
 <h1 align="center">Hi 👋, I'm Ujjwal Sonawat</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
@@ -32,29 +24,4 @@ Fork on GitHub
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=not-ujjwal777&show_icons=true&locale=en&layout=compact" alt="not-ujjwal777" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=not-ujjwal777&show_icons=true&locale=en" alt="not-ujjwal777" /></p>
-
-Support 🙏
-Are you using the tool and happy with it to create your GitHub Profile?
-Your kind support keeps open-source tools like this free for others.
-tweet github profile readme generator
-Let the world know how you feel using this tool. Share with others on twitter.
-Tip💰
-Buy ko-fi for rahuldkjainBuy me a ko-fi
-Donate rahuldkjain via paypal
-Buy rahuldkjain A CoffeeBuy me a coffee
-GitHub Profile github profile markdown generator logo
-README Generator
-Pages
-Addons
-Support
-About
-More
-Github
-Releases
-Issues
-Pull Requests
-Join Community
-Discord of the community
-Developed in India 🇮🇳
-Buy Me A Coffee
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=not-ujjwal777&show_icons=true&locale=en" alt="not-ujjwal777" >
