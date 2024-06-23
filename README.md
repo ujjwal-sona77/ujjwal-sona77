@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **ujjwalsonawat7@gmail.com**
 
-- ⚡ Fun fact **I think I am a good Coder**
+- ⚡ Fun fact **I think I am a good Coder. I am now studying Class 9 . I have participater i many national level competitions and came top 1 all over India .**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
