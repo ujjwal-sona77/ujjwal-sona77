@@ -27,6 +27,6 @@ ujjwalsonawat7@gmail.com
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ujjwal-sona77&show_icons=true&locale=en&layout=compact" alt="ujjwal-sona77" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=not-ujjwal777&show_icons=true&locale=en" alt="ujjwal-sona77" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ujjwal-sona77&show_icons=true&locale=en" alt="ujjwal-sona77" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ujjwal-sona77" alt="ujjwal-sona77" /></p>
