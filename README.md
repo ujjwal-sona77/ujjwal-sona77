@@ -1,7 +1,7 @@
 ![logo](https://github.com/not-ujjwal777/not-ujjwal777/blob/main/github-header-image%20(2).png)
 
 <h1 align="center">Hi 👋, I'm Ujjwal Sonawat</h1>
-<h3 align="center">A passionate fullstack developer from India</h3>
+<h3 align="center">A passionate fullstack developer from India. I am Participating in Many Competitions.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=not-ujjwal777&label=Profile%20views&color=0e75b6&style=flat" alt="not-ujjwal777" /> </p>
 
@@ -9,16 +9,17 @@
 
 - 🌱 I’m currently learning **Full Stack Developing**
 
-- 👨‍💻 All of my projects are available at [github.com/ujjwal-sona77](github.com/ujjwal-sona77)
+- 👨‍💻 All of my projects are available at [github.com/ujjwal-sona77]
 
 - 💬 Ask me about **HTML , CSS , JS , PYTHON , NODE JS , GSAP , LOCOMOTIVE , MONGO DB , ETC**
 
 - 📫 How to reach me **ujjwalsonawat7@gmail.com**
 
-- ⚡ Fun fact **I think I am a good Coder**
+- ⚡ Fun fact **I am in School**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+ujjwalsonawat7@gmail.com 
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -26,6 +27,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=not-ujjwal777&show_icons=true&locale=en&layout=compact" alt="not-ujjwal777" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=not-ujjwal777&show_icons=true&locale=en" alt="not-ujjwal777" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=not-ujjwal777&show_icons=true&locale=en" alt="ujjwal-sona77" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=not-ujjwal777&" alt="not-ujjwal777" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ujjwal-sona77" alt="not-ujjwal777" /></p>
