@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=not-ujjwal777&label=Profile%20views&color=0e75b6&style=flat" alt="not-ujjwal777" /> </p>
 
-- 🔭 I’m currently working on [A Comeptition In my School](indian-culture-ujjwal.netlify.app)
+- 🔭 I’m currently working on [A Comeptition In my School](github.com/ujjwal-sona-jps77/Indian-Culture)
 
 - 🌱 I’m currently learning **Full Stack Developing**
 
