@@ -1,4 +1,4 @@
-![logo](https://github.com/not-ujjwal777/not-ujjwal777/blob/main/github-header-image%20(2).png)
+![logo](./banner-read.png)
 
 <h1 align="center">Hi 👋, I'm Ujjwal Sonawat</h1>
 <h3 align="center">A passionate fullstack developer from India. I am Participating in Many Competitions.</h3>
